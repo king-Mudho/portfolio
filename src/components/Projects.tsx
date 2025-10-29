@@ -24,7 +24,7 @@ export default function Projects() {
       fullDescription: 'A complete enterprise solution for educational institutions, handling everything from student enrollment to financial reporting.',
       category: 'Enterprise',
       techStack: ['Django', 'PostgreSQL', 'React', 'Redis', 'Docker'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Student & staff management with role-based access',
         'Academic records and grading system',
@@ -41,7 +41,7 @@ export default function Projects() {
       fullDescription: 'Modern real estate solution streamlining property listings, tenant relationships, and financial transactions.',
       category: 'Enterprise',
       techStack: ['Django', 'PostgreSQL', 'Bootstrap', 'jQuery'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Property listing management with media galleries',
         'Tenant application and screening workflow',
@@ -58,7 +58,7 @@ export default function Projects() {
       fullDescription: 'Enterprise HR platform automating payroll, leave management, and employee lifecycle management.',
       category: 'Enterprise',
       techStack: ['Django', 'MySQL', 'Celery', 'React', 'Chart.js'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Automated payroll calculation with tax deductions',
         'Leave management with approval workflows',
@@ -75,7 +75,7 @@ export default function Projects() {
       fullDescription: 'Specialized legal software for managing cases, clients, billing, and legal documents.',
       category: 'Enterprise',
       techStack: ['Django', 'PostgreSQL', 'Elasticsearch', 'Vue.js'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Case management with milestone tracking',
         'Client relationship management',
@@ -92,7 +92,7 @@ export default function Projects() {
       fullDescription: 'Smart scheduling solution using constraint-based algorithms to generate optimal school timetables.',
       category: 'Backend',
       techStack: ['Python', 'Django', 'Genetic Algorithms', 'PostgreSQL'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Automated timetable generation with constraint solving',
         'Teacher availability management',
@@ -109,7 +109,7 @@ export default function Projects() {
       fullDescription: 'Healthcare-focused system managing pharmaceutical inventory, prescriptions, and regulatory compliance.',
       category: 'Enterprise',
       techStack: ['Django', 'PostgreSQL', 'Bootstrap', 'Barcode Scanner'],
-      githubUrl: 'https://github.com/danielmudhombozi',
+      githubUrl: 'https://github.com/king-Mudho',
       features: [
         'Inventory management with expiry tracking',
         'Prescription processing and verification',

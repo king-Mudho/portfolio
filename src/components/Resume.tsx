@@ -84,7 +84,7 @@ export default function Resume() {
                 <div className="space-y-2 text-gray-600 dark:text-gray-300">
                   <p>
                     <span className="font-semibold">Email:</span><br />
-                    daniel.mudhombozi@example.com
+                    danymiudho@gmail.com
                   </p>
                   <p>
                     <span className="font-semibold">Location:</span><br />

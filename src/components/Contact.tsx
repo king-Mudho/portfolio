@@ -65,7 +65,7 @@ export default function Contact() {
 
                 <div className="space-y-6">
                   <a
-                    href="mailto:daniel.mudhombozi@example.com"
+                    href="mailto:danymudho@gmail.com"
                     className="flex items-start gap-4 group"
                   >
                     <div className="p-3 bg-white dark:bg-gray-800 rounded-lg shadow-md group-hover:shadow-lg transition-shadow">
@@ -74,13 +74,13 @@ export default function Contact() {
                     <div>
                       <p className="font-semibold dark:text-white text-gray-900">Email</p>
                       <p className="text-gray-600 dark:text-gray-400 group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors">
-                        daniel.mudhombozi@example.com
+                        danymudho@gmail.com
                       </p>
                     </div>
                   </a>
 
                   <a
-                    href="https://linkedin.com/in/danielmudhombozi"
+                    href="https://linkedin.com/in/danymudho"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-start gap-4 group"
@@ -91,13 +91,13 @@ export default function Contact() {
                     <div>
                       <p className="font-semibold dark:text-white text-gray-900">LinkedIn</p>
                       <p className="text-gray-600 dark:text-gray-400 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
-                        linkedin.com/in/danielmudhombozi
+                        linkedin.com/in/danymudho
                       </p>
                     </div>
                   </a>
 
                   <a
-                    href="https://github.com/danielmudhombozi"
+                    href="https://github.com/king-Mudho"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-start gap-4 group"
@@ -108,7 +108,7 @@ export default function Contact() {
                     <div>
                       <p className="font-semibold dark:text-white text-gray-900">GitHub</p>
                       <p className="text-gray-600 dark:text-gray-400 group-hover:text-gray-800 dark:group-hover:text-gray-300 transition-colors">
-                        github.com/danielmudhombozi
+                        github.com/king-Mudho
                       </p>
                     </div>
                   </a>

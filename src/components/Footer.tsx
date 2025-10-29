@@ -21,7 +21,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com/danielmudhombozi"
+                href="https://github.com/king-Mudho"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
@@ -30,7 +30,7 @@ export default function Footer() {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/danielmudhombozi"
+                href="https://linkedin.com/in/danymudho"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
@@ -39,7 +39,7 @@ export default function Footer() {
                 <Linkedin size={20} />
               </a>
               <a
-                href="mailto:daniel.mudhombozi@example.com"
+                href="mailto:danymudho@gmail.com"
                 className="p-3 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
                 aria-label="Email"
               >

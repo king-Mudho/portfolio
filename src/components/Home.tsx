@@ -52,7 +52,7 @@ export default function Home() {
                 Download Resume
               </a>
               <a
-                href="https://github.com/danielmudhombozi"
+                href="https://github.com/king-Mudho"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gray-800 dark:bg-gray-700 text-white px-8 py-3 rounded-lg font-semibold shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all"
